@@ -4,7 +4,7 @@ import Hello from "./components/Hello";
 function App() {
   return (
     <div>
-      <Hello name="tan " content="xin chao" />
+      <Hello name="tan " content="xin cc chao" />
       <Hello name="nam " content="ni hao" />
       <Hello name="hoa " content="o hai do" />
       <MyFooter />
