@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <Hello name="tan " content="xin cc chao" />
-      <Hello name="nam " content="ni hao" />
+      <Hello name="nam " content="ni hao ma" />
       <Hello name="hoa " content="o hai do" />
       <MyFooter />
     </div>
