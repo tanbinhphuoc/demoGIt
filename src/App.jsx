@@ -7,7 +7,7 @@ function App() {
       <Hello name="tan " content="xin cc chao" />
       <Hello name="nam " content="ni hao ma" />
       <Hello name="hoa " content="o hai do" />
-      <Hello name="hoa " content="o hai doo" />
+      <Hello name="hoa " content="o hai doo0" />
       <MyFooter />
     </div>
   );
